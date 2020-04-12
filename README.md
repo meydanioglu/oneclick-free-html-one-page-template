@@ -1,6 +1,6 @@
 # OneClick One Page Free Html Template
 
-
+Template Screenshot : https://i.hizliresim.com/BXp7OM.png
 
 ### Installation
 
